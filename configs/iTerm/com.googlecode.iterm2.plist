@@ -329,6 +329,8 @@
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
+			<key>Background Image Location</key>
+			<string>/Users/amaslakou/Pictures/desktop/nasa-Q1p7bh3SHj8-unsplash.jpg</string>
 			<key>Badge Color</key>
 			<dict>
 				<key>Alpha Component</key>
